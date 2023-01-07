@@ -5,7 +5,7 @@ on:
   push:
     paths:
       - 'Dockerfile'
-      - '.github/build-and-push.yaml'
+      - '.github/workflows/build-and-push.yaml'
 
 jobs:
   docker-gstreamer:
