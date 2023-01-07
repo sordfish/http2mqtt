@@ -34,4 +34,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: sordfish/http2mqtt:latest,sordfish/http2mqtt:0.1.0
+          tags: sordfish/http2mqtt:latest,sordfish/http2mqtt:0.1.1
